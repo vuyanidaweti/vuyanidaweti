@@ -1,7 +1,6 @@
 # Vuyani _(Yanni)_ Daweti
-## BSc Informatics _(Information Science)_  Undergraduate :mortar_board: 
-## Local Web Developer Freelancer :computer:
-
+### BSc Informatics _(Information Science)_  Undergraduate :mortar_board: 
+### Local Web Developer Freelancer :computer:
 
 ## Ndima nomaba kusemthini okanye esibondeni 👋 
 > "I fight even when its too difficult to overcome"
@@ -18,18 +17,17 @@
                      - BSc Informatics Graduate 
                      - Get an internship
                      
-:wrench: ## Tools, Languages ,Frameworks,Databases and OS
-![Generic badge](https://img.shields.io/badge/Language-Java-orange.svg) 
-![Generic badge](https://img.shields.io/badge/Language-Python-yellow.svg)
-![Generic badge](https://img.shields.io/badge/Language-C++-ORANGE.svg) 
-![Generic badge](https://img.shields.io/badge/Framework-Qt-ORANGE.svg) 
-![Generic badge](https://img.shields.io/badge/Tool-Sublime-red.svg) 
-![Generic badge](https://img.shields.io/badge/Tool-VSCode-white.svg) 
-![Generic badge](https://img.shields.io/badge/Tool-IntelliJ-orange.svg) 
-![Generic badge](https://img.shields.io/badge/Tool-Github-green.svg)
-![Generic badge](https://img.shields.io/badge/DB-MySQL-blue.svg) 
-![Generic badge](https://img.shields.io/badge/DB-OracleExpress-red.svg)
-![Generic badge](https://img.shields.io/badge/OS-Linux-ORANGE.svg)
+:wrench: ## Tools, Languages ,Frameworks,Databases and OS  <br/>
+![Generic badge](https://img.shields.io/badge/Language-Java-orange.svg) <br/>
+![Generic badge](https://img.shields.io/badge/Language-Python-yellow.svg)  <br/>
+![Generic badge](https://img.shields.io/badge/Language-C++-ORANGE.svg)   <br/>
+![Generic badge](https://img.shields.io/badge/Framework-Qt-ORANGE.svg)  <br/>
+![Generic badge](https://img.shields.io/badge/Tool-VSCode-white.svg)  <br/>
+![Generic badge](https://img.shields.io/badge/Tool-IntelliJ-orange.svg)  <br/>
+![Generic badge](https://img.shields.io/badge/Tool-Github-green.svg) <br/>
+![Generic badge](https://img.shields.io/badge/DB-MySQL-blue.svg) <br/>
+![Generic badge](https://img.shields.io/badge/DB-OracleExpress-red.svg) <br/>
+![Generic badge](https://img.shields.io/badge/OS-Linux-ORANGE.svg)  <br/>
 
 
 ## Notable Modules 
