@@ -44,5 +44,5 @@
   - Database Design and Impementation  (Oracle Express)
   
  📫 How to reach me: :e-mail: vuyanidwt@gmail.com <br>
-                     [<img width=22px src=https://simpleicons.org/icons/twitter.svg>](www.twitter.com/VuyaniD6)
+                     [<img width=22px src=https://simpleicons.org/icons/twitter.svg>](https://twitter.com/VuyaniD6)
 
