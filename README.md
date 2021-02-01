@@ -20,7 +20,7 @@
 :wrench: ## Tools, Languages ,Frameworks,Databases and OS  <br/>
 ![Generic badge](https://img.shields.io/badge/Language-Java-orange.svg) <br/>
 ![Generic badge](https://img.shields.io/badge/Language-Python-yellow.svg)  <br/>
-![Generic badge](https://img.shields.io/badge/Language-C++-ORANGE.svg)   <br/>
+![Generic badge](https://img.shields.io/badge/Language-C++-ORANGE.svg)   <br/> <br/>
 ![Generic badge](https://img.shields.io/badge/Framework-Qt-ORANGE.svg)  <br/> <br/>
 ![Generic badge](https://img.shields.io/badge/Tool-VSCode-white.svg)  <br/>
 ![Generic badge](https://img.shields.io/badge/Tool-IntelliJ-orange.svg)  <br/>
