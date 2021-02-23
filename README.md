@@ -1,3 +1,4 @@
+![alt text](https://github.com/Loboa/Loboa/blob/main/github.png)
 # Vuyani _(Yanni)_ Daweti
 ### BSc Informatics _(Information Science)_  Undergraduate :mortar_board: 
 ### Local Web Developer Freelancer :computer:
