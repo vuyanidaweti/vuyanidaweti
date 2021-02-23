@@ -1,7 +1,6 @@
 ![alt text](https://github.com/Loboa/Loboa/blob/main/github.png)
 
 ### BSc Informatics _(Information Science)_  Undergraduate :mortar_board: 
-### Local Web Developer Freelancer :computer:
 
 ## Ndima nomaba kusemthini okanye esibondeni 👋 
 > "I fight even when its too difficult to overcome"
