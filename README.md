@@ -9,7 +9,7 @@
 
     
     
-🔭 I’m currently working on finishing my Bsc Imformatics Degree
+🔭 I’m currently working on finishing my Bsc Imformatics Degree <br/>
 🌱 I’m currently learning Java 11
 👯 I’m looking to collaborate on Local Open Source projects 
 🤔 I’m looking for help with finding local open source projects
