@@ -2,7 +2,7 @@
 
 ### BSc Informatics _(Information Science)_  Undergraduate :mortar_board: 
 
-## Ndima nomaba kusemthini okanye esibondeni 👋 
+## Ndima noba kusemthini okanye esibondeni 👋 
 > "I fight even when its too difficult to overcome"
 
 
