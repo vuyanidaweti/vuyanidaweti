@@ -13,9 +13,10 @@
 🌱 I’m currently learning Java 11<br/>
 👯 I’m looking to collaborate on Local Open Source projects <br/>
 🤔 I’m looking for help with finding local open source projects <br/>
-:dart: 2021 Goals :  * Be a Certified JAVA SE 11 Professional Developer <br/>
-  <tab/>                   * BSc Informatics Graduate 
-                     * Get an internship
+:dart: 2021 Goals :  
+- Be a Certified JAVA SE 11 Professional Developer
+- BSc Informatics Graduate 
+- Get an internship
                      
 :wrench: ## Tools, Languages ,Frameworks,Databases and OS  <br/>
 ![Generic badge](https://img.shields.io/badge/Language-Java-orange.svg)
