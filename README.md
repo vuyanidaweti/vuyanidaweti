@@ -16,7 +16,7 @@
 :dart: 2021 Goals :  
 - Be a Certified JAVA SE 11 Professional Developer ![51%](https://progress-bar.dev/51)
 - BSc Informatics Graduate ![95%](https://progress-bar.dev/95)
-- Get an internship ![100%](https://progress-bar.dev/63)
+- Get an internship ![100%](https://progress-bar.dev/100)
                      
 :wrench: ## Tools, Languages ,Frameworks,Databases and OS  <br/>
 ![Generic badge](https://img.shields.io/badge/Language-Java-orange.svg)
