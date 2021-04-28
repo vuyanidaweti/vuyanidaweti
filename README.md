@@ -14,7 +14,7 @@
 👯 I’m looking to collaborate on Local Open Source projects <br/>
 🤔 I’m looking for help with finding local open source projects <br/>
 :dart: 2021 Goals :  
-- Be a Certified JAVA SE 11 Professional Developer ![51%](https://progress-bar.dev/51)
+- Be a Certified JAVA SE 11 Professional Developer ![51%](https://progress-bar.dev/76)
 - BSc Informatics Graduate ![95%](https://progress-bar.dev/95)
 - Get an internship ![100%](https://progress-bar.dev/100)
                      
