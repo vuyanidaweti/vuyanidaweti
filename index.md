@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+![alt text](https://github.com/Loboa/Loboa/blob/main/github.png)
 
-You can use the [editor on GitHub](https://github.com/vuyanidaweti/vuyanidaweti/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# I am  Web Developer 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Ndima noba kusemthini okanye esibondeni 👋 
+> "I fight even when its too difficult to overcome"
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+    
+  
+👯 I’m looking to collaborate on Local Open Source projects <br/>
+🤔 I’m looking for help with finding local open source projects <br/>
+:dart: 2021 Goals :  
+- Be a Certified JAVA SE 11 Professional Developer ![51%](https://progress-bar.dev/100)
+- BSc Informatics Graduate ![100%](https://progress-bar.dev/100)
+- Get an internship ![100%](https://progress-bar.dev/100)
+                     
+:wrench: ## Tools, Languages ,Frameworks,Databases and OS  <br/>
+![Generic badge](https://img.shields.io/badge/Language-Java-orange.svg)
+![Generic badge](https://img.shields.io/badge/Language-Python-yellow.svg)
+![Generic badge](https://img.shields.io/badge/Language-C++-ORANGE.svg)
+![Generic badge](https://img.shields.io/badge/Framework-Qt-ORANGE.svg)
+![Generic badge](https://img.shields.io/badge/Tool-VSCode-white.svg)
+![Generic badge](https://img.shields.io/badge/Tool-IntelliJ-orange.svg)
+![Generic badge](https://img.shields.io/badge/Tool-Github-green.svg)
+![Generic badge](https://img.shields.io/badge/DB-MySQL-blue.svg)
+![Generic badge](https://img.shields.io/badge/DB-OracleExpress-red.svg)
+![Generic badge](https://img.shields.io/badge/OS-Linux-ORANGE.svg)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Certificates :
+- Become a React Developer
+  
+ 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vuyanidaweti/vuyanidaweti/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loboa&show_icons=true&theme=radical)
