@@ -23,7 +23,7 @@
     - Nextjs & Express.js ![1%](https://progress-bar.dev/1)
     - ASP.NET CORE & Reactjs ![1%](https://progress-bar.dev/0)
     
-- Ge a full time job as a Developer ![10%](https://progress-bar.dev/100)
+- Ge a full time job as a Developer ![10%](https://progress-bar.dev/10)
 
 
 :wrench: ## Tools, Languages ,Frameworks,Databases and OS  <br/>
