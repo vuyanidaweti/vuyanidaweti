@@ -8,9 +8,6 @@
 
 
     
-  
-👯 I’m looking to collaborate on Local Open Source projects <br/>
-🤔 I’m looking for help with finding local open source projects <br/>
 :dart: 2021 Goals :  
 - Be a Certified JAVA SE 11 Professional Developer ![40%](https://progress-bar.dev/40)
 - BSc Informatics Graduate ![100%](https://progress-bar.dev/100)
@@ -26,7 +23,7 @@
 - Ge a full time job as a Developer ![10%](https://progress-bar.dev/10)
 
 
-:wrench: ## Tools, Languages ,Frameworks,Databases and OS  <br/>
+ ## Tools, Languages ,Frameworks,Databases and OS  <br/>
 ![Generic badge](https://img.shields.io/badge/Language-Java-orange.svg)
 ![Generic badge](https://img.shields.io/badge/Language-Python-yellow.svg)
 ![Generic badge](https://img.shields.io/badge/Language-C++-ORANGE.svg)
