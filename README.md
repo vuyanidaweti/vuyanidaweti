@@ -16,9 +16,9 @@
  :dart: 2022 Goals :  
 - Be a Certified JAVA SE 11 Professional Developer ![70%](https://progress-bar.dev/70)
 - Complete 4 Personal Projects : 
-    - Reactjs & Node(Express.js) ![98%](https://progress-bar.dev/1)
-    - Nextjs & Express.js ![6%](https://progress-bar.dev/1)
-    - ASP.NET CORE & Reactjs ![7%](https://progress-bar.dev/0)
+    - Reactjs & Node(Express.js) ![98%](https://progress-bar.dev/98)
+    - Nextjs & Express.js ![6%](https://progress-bar.dev/6)
+    - ASP.NET CORE & Reactjs ![7%](https://progress-bar.dev/7)
     
 - Ge a full time job as a Developer ![10%](https://progress-bar.dev/10)
 
