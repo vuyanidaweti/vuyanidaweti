@@ -1,6 +1,6 @@
 ![alt text](https://github.com/Loboa/Loboa/blob/main/github.png)
 
-# I am  Web Developer 
+# Software Engineer and Web Developer 
 
 ## Ndima noba kusemthini okanye esibondeni 👋 
 > "I fight even when its too difficult to overcome"
