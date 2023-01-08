@@ -27,6 +27,7 @@
 ![Generic badge](https://img.shields.io/badge/Language-Java-orange.svg)
 ![Generic badge](https://img.shields.io/badge/Language-Python-yellow.svg)
 ![Generic badge](https://img.shields.io/badge/Language-C++-ORANGE.svg)
+![Generic badge](https://img.shields.io/badge/Language-JS-blue.svg)
 ![Generic badge](https://img.shields.io/badge/Framework-Qt-ORANGE.svg)
 ![Generic badge](https://img.shields.io/badge/Tool-VSCode-white.svg)
 ![Generic badge](https://img.shields.io/badge/Tool-IntelliJ-orange.svg)
@@ -34,6 +35,7 @@
 ![Generic badge](https://img.shields.io/badge/DB-MySQL-blue.svg)
 ![Generic badge](https://img.shields.io/badge/DB-OracleExpress-red.svg)
 ![Generic badge](https://img.shields.io/badge/OS-Linux-ORANGE.svg)
+![Generic badge](https://img.shields.io/badge/Cloud-AWS-ORANGE.svg)
 
 
 ## Certificates :
